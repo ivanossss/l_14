@@ -210,4 +210,4 @@ Elizabeth
 ivan@ubuntu:~$ awk -F: '{if ($1 ~ /^Mike/) print "$"$3,"$"$4,"$"$5}' text.txt   
 $250 $100 $175
 
-```
+```1234
